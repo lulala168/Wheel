@@ -1,0 +1,6 @@
+{
+  "name": "Fortune Wheel Spin",
+  "description": "A dynamic fortune wheel with physics-based spinning animation, customizable segments, and confetti effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
